@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="l8_jsf:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/l8_jsf_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="l8_jsf/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="l8_jsf" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
